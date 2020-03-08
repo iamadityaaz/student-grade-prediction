@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/home/iamadityaaz/Documents/python/AI ML learnings/learn_ai_environment/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "autopep8",
+  "python.linting.enabled": true
+}
